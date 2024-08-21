@@ -1,0 +1,1 @@
+print("Miyuki, Paladino, Claudete, Matsumoto, Mamede.")

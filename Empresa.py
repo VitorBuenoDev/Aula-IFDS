@@ -1,0 +1,1 @@
+print("Coca Cola, KFC, IBM, BK, Vivo")
