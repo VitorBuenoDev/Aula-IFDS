@@ -3,7 +3,7 @@
 int main() {
 float a, b;
 char c;
-printf("Digite algum númejro: ");
+printf("Digite algum númelro: ");
 scanf("%f", &a);
 printf("Digite outro número: ");
 scanf("%f", &b);

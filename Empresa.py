@@ -1,1 +1,1 @@
-print("Coca Cola, KFC, IBM, BK, Vivo, JOOJ")
+print("Coca Cola, KFC, IBM, BK, Vivo, Claro")
