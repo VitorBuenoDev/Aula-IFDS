@@ -1,1 +1,1 @@
-print("Miyuki, Paladino, Claudete, Matsumoto, Mamede.")
+print("Miyuki, Pajladino, Claudete, Matsumoto, Mamede.")
